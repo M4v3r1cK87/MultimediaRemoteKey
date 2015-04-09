@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Multimedia Remote Key</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="telnet_hintAddress">Indirizzo</string>
+    <string name="telnet_hintPort">Porta</string>
+    <string name="telnet_btnConnect">Connetti</string>
+    <string name="relativeLayoutSend_Name">Invia</string>
+    <string name="relativeLayoutSend_hintCommand">Comando</string>
+    <string name="relativeLayoutSend_btnInvia">Invia</string>
+    <string name="relativeLayoutReceive_Name">Ricevi</string>
+</resources>
